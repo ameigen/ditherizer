@@ -32,3 +32,6 @@ void bayerDithering(std::string filename, sf::Image Image, Eigen::MatrixXf thres
 
 <img src="https://i.imgur.com/QoD51bH.jpg" width="50%" height="50%"><img src="https://i.imgur.com/zpT28Xq.jpg" width="50%" height="50%">
 <img src="https://i.imgur.com/rsqli5h.jpg" width="50%" height="50%"><img src="https://i.imgur.com/xfo75Y8.jpg" width="50%" height="50%">
+
+A direct port to Python and integrated into a tweepy bot. It is self hosted so it may or may not be online when you check. 
+https://twitter.com/ditherizer
